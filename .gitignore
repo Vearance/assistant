@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+vosk-model-small-en-us-0.15/
+vosk-model-small-en-us-0.22/
+piper/
